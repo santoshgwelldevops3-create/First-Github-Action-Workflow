@@ -1,7 +1,7 @@
 name: Santosh Kumar
 
 on:
-  push
+  push:
     branches: [ main ]
 
 jobs:
